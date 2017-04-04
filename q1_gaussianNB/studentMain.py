@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 """ Complete the code in ClassifyNB.py with the sklearn
     Naive Bayes classifier to classify the terrain data.
