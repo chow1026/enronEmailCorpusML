@@ -1,8 +1,8 @@
-# Udacity Data Analyst NanoDegree - Introduction to Machine Learning
+# Enron Email Corpus Analysis with Scikit-Learn
 
 ## Summary
 
-This is the repo for all the scripts from the exercises and quizes for the Introduction to Machine Learning course.  The project is part of the Udacity Data Analyst NanoDegree program.  In the final project folder are the various submissions of the final project.  
+This is the repo for machine learning project to Identify POI by analyzing Enron Email Corpus Analysis.  The repo also includes some other practices with common machine learning algorithm.  In the final project folder are the various submissions of the final project.  
 
 _NOTE: This repo doesn't include starter codes from the course.  The starter code is hosted in a different repo at [IntroMachineLearning](https://github.com/chowy1026/IntroMachineLearning)._
 
